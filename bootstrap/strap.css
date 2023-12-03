@@ -1,0 +1,23 @@
+.card{
+    margin-bottom: 4px;
+    box-shadow: small;
+    border-radius: 3px;
+    
+}
+
+body{
+    padding-top: 111px;
+}
+
+img {
+    max-width: 100%; 
+    height: auto; 
+    max-height: 65px; 
+    width: auto;
+  }
+
+.navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+li{padding: 5px;}
+
