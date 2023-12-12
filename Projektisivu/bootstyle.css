@@ -1,0 +1,13 @@
+/* bootsträppiä tehdessä mielestäni on kivempi käyttää style komentoa ja class komennoissa muokata :) */
+
+.card {
+    margin-bottom:40%;
+    box-shadow: small;
+    border-radius: 3px;
+}
+
+.footer {
+    margin-top: auto;
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
